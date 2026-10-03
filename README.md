@@ -29,10 +29,8 @@ Page 6 - Top 50 All-time Peak
 4. How does game price relate to estimated copies sold?
 5. How do free-to-play and paid games differ in revenue performance?
 6. How does publisher class affect game performance?
-7. Which games appear among the strongest revenue performers over time?
-8. Which games have reached the highest all-time concurrent player peaks?
-9. Does the number of DLC influence the number of copies sold?
-10. How do these patterns change when filtering by release date, player mode, or publisher class?
+7. Which games have reached the highest all-time concurrent player peaks?
+8. Does the number of DLC influence the number of copies sold?
 
 ## Key Dashboard Insights
 - A small number of titles dominate Steam performance. Counter-Strike 2, Dota 2, and PUBG: BATTLEGROUNDS repeatedly appear among the leaders in estimated sales, revenue, and concurrent players.
